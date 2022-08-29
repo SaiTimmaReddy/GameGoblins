@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GameGoblins/static/css/main.4f443bf3.chunk.css",
-    "main.js": "/GameGoblins/static/js/main.3428e32a.chunk.js",
-    "main.js.map": "/GameGoblins/static/js/main.3428e32a.chunk.js.map",
+    "main.js": "/GameGoblins/static/js/main.c280019a.chunk.js",
+    "main.js.map": "/GameGoblins/static/js/main.c280019a.chunk.js.map",
     "runtime-main.js": "/GameGoblins/static/js/runtime-main.36fb55dd.js",
     "runtime-main.js.map": "/GameGoblins/static/js/runtime-main.36fb55dd.js.map",
     "static/js/2.dbf5afc0.chunk.js": "/GameGoblins/static/js/2.dbf5afc0.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.36fb55dd.js",
     "static/js/2.dbf5afc0.chunk.js",
     "static/css/main.4f443bf3.chunk.css",
-    "static/js/main.3428e32a.chunk.js"
+    "static/js/main.c280019a.chunk.js"
   ]
 }
